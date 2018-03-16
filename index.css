@@ -1,0 +1,102 @@
+.home
+{
+	background-color: black;
+
+}
+
+.image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+.image2
+{
+	display: block;
+	float: right;
+
+
+}
+
+.image1
+{
+	display: block;
+	float: left;
+
+}
+
+.login
+{
+	float: right;
+	background-color: red;
+	font-size: 16px;
+	border: none;
+	padding: 6px 6px;
+	font-weight: bold;
+	color: white;
+	margin: 4px 4px;
+	cursor: pointer;
+	appearance: button;
+	
+}
+.hello
+{
+	color: red;
+	font-size: 45px;
+
+}
+
+.div
+{
+	height: 200px;
+	width: 400px;
+	background-color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	color: white;
+}
+
+.reg
+{
+	background-color: red;
+	font-size: 16px;
+	border: none;
+	padding: 6px 6px;
+	font-weight: bold;
+	color: white;
+	margin: 4px 4px;
+	cursor: pointer;
+	display: block; margin: 0 auto;
+}
+.txt
+{
+	background-color: white;
+	font-size: 19px;
+	color: red;
+	float: right;
+	background-color: white;
+	border-color: red;
+	margin-bottom: 5px;	
+
+}
+.label
+{
+	font-size: 22px;
+	float: right;
+	color: white;
+	padding: 3px;
+	
+	}
+ .signup
+ {
+ 	color: red;
+ 	font-size: 36px;
+ 	font-style: italic;
+ 	font-weight: bold;
+
+ }
